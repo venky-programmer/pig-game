@@ -219,19 +219,19 @@ main {
   }
 
   .btn--new {
-    top: 10px;
+    top: 3%;
     left: 30%;
     padding: 0.5rem 1.5rem;
   }
 
   .btn--roll {
-    top: 45%;
+    top: 50%;
     left: 30%;
     padding: 0.5rem 1.5rem;
   }
 
   .btn--hold {
-    top: 45%;
+    top: 50%;
     left: 75%;
     padding: 0.5rem 1.5rem;
   }
